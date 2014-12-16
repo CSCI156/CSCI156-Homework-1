@@ -50,28 +50,27 @@ Return the social security number as a string in the format XX-XXX-XXXX. You wil
 separately. Make sure to strip of any whitespace characters from the user input.
 
 
-###### def street():
+##### def street():
 
 Input the street address. Have them put in the number first, and the street name. Return this as one string.  Make sure 
 to strip of any whitespace characters from the user input. 
 
-###### def city():
+##### def city():
 
 Input the city. Make sure to strip of any whitespace characters from the user input.
 
-###### def zip():
+##### def zip():
 
 Input the five digit zip. Make sure to strip of any whitespace characters from the user input.
 
-###### def print():
+##### def print():
 
 This should print out all of the employee information 
 
 
-###### MAIN PROGRAM:
+##### MAIN PROGRAM:
 
-The main program should be in a while loop that runs until the user enters option 9. Otherwise it should call the above 
-functions based on which option the user chooses.
+The main program should be in a while loop that runs until the user enters option 9. Otherwise it should call the above functions based on which option the user chooses.
 
 
 
