@@ -23,7 +23,7 @@ Menu should not stop until the user has made one of these choices.
 ##### def formatname(s):
   
 This function will take a string and make the first letter capital and all of the rest of the letters lower case. It 
-returns this string. 
+returns this string, do not use the built in Python function that does this. 
 
 ##### def firstname():
 
