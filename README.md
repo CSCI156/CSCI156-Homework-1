@@ -46,7 +46,7 @@ Make sure to strip of any whitespace characters from the user input. BONUS: Chec
 
 ##### def SS():
 
-Return the social security number as a string in the format XX-XXX-XXXX. You will have to input these three things 
+Return the social security number as a string in the format XXX-XX-XXXX. You will have to input these three things 
 separately. Make sure to strip of any whitespace characters from the user input.
 
 
