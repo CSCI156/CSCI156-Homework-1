@@ -63,7 +63,7 @@ Input the city. Make sure to strip of any whitespace characters from the user in
 
 Input the five digit zip. Make sure to strip of any whitespace characters from the user input.
 
-##### def print():
+##### def print_emp():
 
 This should print out all of the employee information 
 
